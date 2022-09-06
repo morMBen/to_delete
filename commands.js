@@ -1,0 +1,1 @@
+//? ctrl + ~   open new terminal
