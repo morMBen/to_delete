@@ -4,4 +4,4 @@
 
 //? git add .  add all
 
-//? git commit -m '<some message>'
+//? git commit -m '<some meaningful message>'
